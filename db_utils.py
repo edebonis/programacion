@@ -5,6 +5,8 @@ class Base:
     def __init__(self):
         self.db = sqlite3.connect("usuarios.db")
         self.c = self.db.cursor()
+        self.respuestas_login = ["login ok", "Contraseña incorrecta", "No existe usuario"]
+        self.respuestas_contrasenia = ["cambio ok", "error old passw"]
 
     def alta_usuario(self, nom, passw, nusr):
         if not self.existe_usuario(nusr):
