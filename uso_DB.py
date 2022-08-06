@@ -3,6 +3,6 @@ from db_utils import Base
 
 bd = Base()
 
+#print(bd.alta_usuario('Esteban', 'qvg802', 'edebonis'))
 
-resp = bd.cambiar_contrasenia("87654321", "445", "edebonis2")
-print(bd.respuestas_contrasenia[resp])
+print(bd.login('qvg802', 'edebonis'))
