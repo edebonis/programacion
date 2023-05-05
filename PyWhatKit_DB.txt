@@ -1,0 +1,15 @@
+Date: 24/10/2022
+Time: 12:5
+Phone Number: +5491158621459
+Message: Hola desde Mi Diario Python
+--------------------
+Date: 24/10/2022
+Time: 12:7
+Phone Number: +5491158621459
+Message: Hola desde Mi Diario Python
+--------------------
+Date: 24/10/2022
+Time: 12:8
+Phone Number: +5491158621459
+Message: Hola desde Mi Diario Python
+--------------------

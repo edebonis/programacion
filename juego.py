@@ -24,5 +24,4 @@ class Jugador:
         self.poder += horas*0.5
         print("El poder de {} subió a {}".format(self.nombre, self.poder))
     
-j1 = Jugador("Esteban", energia=1000)
-j2 = Jugador("Luis")
+
